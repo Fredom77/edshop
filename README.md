@@ -1,2 +1,2 @@
-# edshop
-Proyecto de E-Commerce con Django para Edteam
+# tienda  Online  uso  exclusivo  para los clientes 
+Proyecto finalizado  con  exito  pasarela  de pagos 
